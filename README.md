@@ -10,6 +10,7 @@ Simply create a pull request adding your project.
 
 | Name                                                                                                    | Status      | Description |
 | ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| [Orbis Protocol](https://orbis.club/)                                                                    | Live        | Orbis is a web3 social protocol allowing any developers to integrate decentralized social features in their existing application with a few lines of code. |
 | [Krebit](http://krebit.co/)                                                                    | Beta        | Krebit is a Verifiable Credentials marketplace, where both users and attestators are rewarded tokens when VCs are registered On-Chain |
 | [FungyProof](https://fungyproof.com)                                                                    | Beta        | FungyProof is a new way to grade, enrich, and display NFTs. Check your NFT for 30+ data points then improve your grade with an NFT Case. |
 | [DDshare](https://ddshare.io/)                                                                          | Development | Building Decentralized Data Sharing Infrastructure Based on Ceramic,IFPS&FileCoin and ISCN. Designed to store and share humanity's data|
